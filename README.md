@@ -1,4 +1,4 @@
-# automatic-mini-car
+# automatic-mini-car with esp32-cam
 # 智能小车
 
 
