@@ -516,3 +516,6 @@ path:./Part_Two/Camera_data_acquisition/IP_Camera_and_Record.ino
 
 
 
+参考：人工智能引航计划https://space.bilibili.com/1872807136
+
+
